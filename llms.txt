@@ -1,0 +1,18 @@
+# Victoria Scott Zhang
+
+> Cloud Product Manager at IBM. Writer covering product strategy, cloud platform
+> growth, containers/Kubernetes/OpenShift, and AI operations. Princeton (B.S.E.
+> Computer Science) and NYU Stern (MBA, Tech Product Management).
+
+## Pages
+
+- [Home](index.html): Short bio and links to writing and resume.
+- [Writing](writing.html): List of published articles (LinkedIn, Medium, HackerNoon)
+  with titles, publications, dates, and summaries.
+- [Resume](resume.html): Full work history, education, skills, and a downloadable PDF.
+
+## Contact
+
+- Email: victoriascott2014@gmail.com
+- LinkedIn: https://www.linkedin.com/in/vscottz/
+- Medium: https://medium.com/@vscottz
