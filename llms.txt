@@ -6,10 +6,11 @@
 
 ## Pages
 
-- [Home](index.html): Short bio and links to writing and resume.
-- [Writing](writing.html): List of published articles (LinkedIn, Medium, HackerNoon)
-  with titles, publications, dates, and summaries.
-- [Resume](resume.html): Full work history, education, skills, and a downloadable PDF.
+- [Home](https://victoriasz.com/): Short bio and links to writing and resume.
+- [Writing](https://victoriasz.com/writing/): List of published articles (LinkedIn, Medium,
+  HackerNoon) with titles, publications, dates, and summaries.
+- [Resume](https://victoriasz.com/resume/): Full work history, education, skills, and a
+  downloadable PDF.
 
 ## Contact
 
