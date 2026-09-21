@@ -91,7 +91,6 @@ main { padding: 56px 0 80px; }
   height: 92px;
   border-radius: 50%;
   object-fit: cover;
-  object-position: center top;
   box-shadow: 0 4px 16px rgba(225, 29, 72, 0.28);
 }
 
