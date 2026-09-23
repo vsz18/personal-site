@@ -3,7 +3,7 @@
   --paper: #fdfcfa;
   --muted: #6b6b6b;
   --line: #e3e0da;
-  --accent: #e11d48;
+  --accent: #c54e21;
   --max-width: 720px;
 }
 
@@ -91,7 +91,7 @@ main { padding: 56px 0 80px; }
   height: 92px;
   border-radius: 50%;
   object-fit: cover;
-  box-shadow: 0 4px 16px rgba(225, 29, 72, 0.28);
+  box-shadow: 0 4px 16px rgba(197, 78, 33, 0.28);
 }
 
 .hero-text { flex: 1; min-width: 220px; }
